@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702771148 source:c:\academics\learnings\learning\c programming\practical exercises part 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
